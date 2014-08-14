@@ -1,5 +1,8 @@
 package simple;
-
+/**
+ * This class holds simple recursive methods. 
+ * @author raunak
+ */
 /* with some simple recursive math functions */
 public class RecursiveMath {
 
