@@ -4,7 +4,7 @@ package simple;
  * to illustrate the use of JUnit testing.
  * 
  *  @author Mohammad Raunak
- *  @verion 1.1 09/11/2013
+ *  @verion 1.2 08/25/2014
  */
 public class SimpleMath {
 
@@ -45,7 +45,9 @@ public class SimpleMath {
 		
 		/* Returns the summation of first N integers using a formula */
 		public int sumNFormula(int n){
-			return 0;
+			
+			return n*(n+1)/2;
+			
 		}
 
 }
